@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RunnrAndroid</string>
+    <string name="title_activity_main">Map</string>
+    <string name="Runnr">Welcome to Runnr!</string>
+    <string name="nwButton">Stats</string>
+    <string name="neButton">History</string>
+    <string name="swButton">Leaderboards</string>
+    <string name="seButton">Settings</string>
+    <string name="startRun">Start Run</string>
+</resources>
